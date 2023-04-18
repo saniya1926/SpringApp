@@ -1,0 +1,13 @@
+package com.BikkadIT.SecoundAppUsingIDE.controller;
+
+public class StudentController {
+
+	public StudentController() {
+		super();
+		System.out.println("StudentControler Constructor");
+	}
+
+
+	}
+
+
